@@ -4,6 +4,16 @@
 
 A Java Swing application that visualizes various sorting algorithms.
 
+
+## Tech Stack
+
+- **Java 17** — core language
+- **Swing** — GUI framework for the visualizer canvas
+- **Maven** — build and dependency management
+- **JUnit 5** — unit testing
+- **Checkstyle** — code style enforcement
+
+
 ## Features
 
 - **Visualizes 8 sorting algorithms:**
