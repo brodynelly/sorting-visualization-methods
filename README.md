@@ -1,5 +1,7 @@
 # Sorting Visualization
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/brodynelly/sorting-visualization-methods/actions/workflows/ci.yml/badge.svg)](https://github.com/brodynelly/sorting-visualization-methods/actions/workflows/ci.yml) ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk)
+
 A Java Swing application that visualizes various sorting algorithms.
 
 ## Features
