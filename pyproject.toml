@@ -1,0 +1,6 @@
+# Build and tooling configuration
+# Java project — primary linting via Checkstyle (checkstyle.xml)
+# This file is a placeholder for Python-based tooling integrations
+
+[tool.ruff]
+# Not applicable for Java projects
